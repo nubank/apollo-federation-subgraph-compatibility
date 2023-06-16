@@ -4,7 +4,7 @@
     "start": "ts-node --transpile-only ./index.ts"
   },
   "dependencies": {
-    "@apollo/server": "^4.1.1",
+    "@apollo/server": "^4.7.4",
     "@apollo/subgraph": "^2.1.4",
     "@pothos/core": "^3.22.9",
     "@pothos/plugin-directives": "^3.8.4",
